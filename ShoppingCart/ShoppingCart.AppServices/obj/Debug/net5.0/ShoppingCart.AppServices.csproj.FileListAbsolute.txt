@@ -1,0 +1,15 @@
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.AppServices.deps.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.AppServices.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ref\ShoppingCart.AppServices.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.AppServices.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.Domain.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.Domain.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.csproj.AssemblyReference.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.AssemblyInfoInputs.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.AssemblyInfo.cs
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.csproj.CoreCompileInputs.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.csproj.CopyComplete
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ref\ShoppingCart.AppServices.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.pdb

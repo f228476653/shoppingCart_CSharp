@@ -1,0 +1,15 @@
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ShoppingCart.Domain.deps.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ShoppingCart.Domain.runtimeconfig.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ShoppingCart.Domain.runtimeconfig.dev.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ShoppingCart.Domain.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ref\ShoppingCart.Domain.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\bin\Debug\net5.0\ShoppingCart.Domain.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.csproj.AssemblyReference.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.AssemblyInfoInputs.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.AssemblyInfo.cs
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ref\ShoppingCart.Domain.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Domain\obj\Debug\net5.0\ShoppingCart.Domain.genruntimeconfig.cache

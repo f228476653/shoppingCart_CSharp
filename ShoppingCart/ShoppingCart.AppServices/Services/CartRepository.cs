@@ -1,4 +1,6 @@
 ﻿using ShoppingCart.AppServices.Models;
+using ShoppingCart.Domain.AggregatesModel;
+using ShoppingCart.Domain.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +11,22 @@ namespace ShoppingCart.AppServices.Services
 {
     public class CartRepository : ICartRepository
     {
-        public void AddCar(CartEntity car)
+        private ShoppingCartContext _context;
+
+        public CartRepository(ShoppingCartContext context)
         {
-            throw new NotImplementedException();
+            _context = context;
+        }
+        public void AddCar(CartDto car)
+        {
+            try
+            {
+                _context.ShoppingCart.Add(car);
+                _context.SaveChanges();
+            }
+            catch (Exception e) {
+                throw e;
+            }
         }
 
         public bool CarExists(Guid carId)
@@ -19,27 +34,27 @@ namespace ShoppingCart.AppServices.Services
             throw new NotImplementedException();
         }
 
-        public void DeleteCar(CartEntity car)
+        public void DeleteCar(CartDto car)
         {
             throw new NotImplementedException();
         }
 
-        public CartEntity GetCar(Guid carID)
+        public CartDto GetCar(Guid carID)
         {
-            throw new NotImplementedException();
+            return _context.ShoppingCart.FirstOrDefault(c => c.Id == carID);
         }
 
-        public IEnumerable<CartEntity> GetCars()
+        public IEnumerable<CartDto> GetCars()
         {
             throw new NotImplementedException();
         }
 
         public bool Save()
         {
-            throw new NotImplementedException();
+            return true;
         }
 
-        public void UpdateCar(CartEntity car)
+        public void UpdateCar(CartDto car)
         {
             throw new NotImplementedException();
         }

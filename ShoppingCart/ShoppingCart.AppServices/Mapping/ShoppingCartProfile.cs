@@ -9,7 +9,7 @@ namespace ShoppingCart.AppServices
     {
         public ShoppingCartProfile()
         {
-            CreateMap<CartEntity, CartDto>();
+            CreateMap<CartEntity, CartDto>().ReverseMap();
             // Use CreateMap... Etc.. here (Profile methods are the same as configuration methods)
         }
     }

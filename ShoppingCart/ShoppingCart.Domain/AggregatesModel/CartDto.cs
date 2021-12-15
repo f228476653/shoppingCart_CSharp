@@ -12,5 +12,6 @@ namespace ShoppingCart.Domain.AggregatesModel
         public double Price { get; set; }
         public int Stock { get; set; }
         public string ImagePath { get; set; }
+        public Guid Id { get; set; }
     }
 }

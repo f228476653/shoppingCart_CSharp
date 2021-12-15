@@ -59,4 +59,7 @@
   <ItemGroup>
     <Folder Include="Properties" />
   </ItemGroup>
+  <ItemGroup>
+    <Build Include="ShoppingCart.sql" />
+  </ItemGroup>
 </Project>

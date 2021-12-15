@@ -12,6 +12,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using ShoppingCart.Api.Infrastructure;
 using ShoppingCart.AppServices;
+using ShoppingCart.Domain.Infrastructure;
 using System;
 using System.Collections.Generic;
 using System.Linq;

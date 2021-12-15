@@ -4,3 +4,7 @@ C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\bin\Debug\ShoppingCart.DB.
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.sqlproj.AssemblyReference.cache
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.dll
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\ShoppingCart.DB.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\Model.xml
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\refactor.xml
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\postdeploy.sql
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.DB\obj\Debug\predeploy.sql

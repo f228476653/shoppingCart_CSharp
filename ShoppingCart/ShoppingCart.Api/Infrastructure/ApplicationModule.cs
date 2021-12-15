@@ -2,7 +2,11 @@
 
 using Autofac;
 using MediatR;
+using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore.Design;
 using ShoppingCart.AppServices.Services;
+using ShoppingCart.Domain.Infrastructure;
 using System.Collections.Generic;
 using System.Diagnostics.CodeAnalysis;
 using System.Net.Http;
@@ -50,6 +54,7 @@ namespace ShoppingCart.Api.Infrastructure
 
             builder.RegisterType<HttpClient>();
             builder.RegisterType<ShoppingCartContext>().As<ShoppingCartContext>().InstancePerDependency();
+            builder.RegisterType<HttpContextAccessor>().As<IHttpContextAccessor>().InstancePerDependency();
             builder.RegisterType<CartRepository>().As<ICartRepository>().InstancePerDependency();
             builder.RegisterType<ShoppingCartContext>().As<ShoppingCartContext>().InstancePerDependency()
               .OnActivating(e =>
@@ -58,6 +63,17 @@ namespace ShoppingCart.Api.Infrastructure
                   e.Instance.SetMediator(mediator);
               });
 
+        }
+
+        public class ShoppingCartDesignTimeContextFactory : IDesignTimeDbContextFactory<ShoppingCartContext>
+        {
+            public ShoppingCartContext CreateDbContext(string[] args)
+            {
+                var optionsBuilder = new DbContextOptionsBuilder<ShoppingCartContext>();
+                optionsBuilder.UseSqlServer("Server=localhost;Database=EIIRBb;Trusted_Connection=True;");
+
+                return new ShoppingCartContext(() => optionsBuilder.Options);
+            }
         }
 
     }

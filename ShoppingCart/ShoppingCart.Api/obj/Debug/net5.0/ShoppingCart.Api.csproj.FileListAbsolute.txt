@@ -78,3 +78,12 @@ C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\Shopping
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\ShoppingCart.Domain.pdb
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\obj\Debug\net5.0\ShoppingCart.Api.RazorAssemblyInfo.cache
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\obj\Debug\net5.0\ShoppingCart.Api.RazorAssemblyInfo.cs
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\EntityFramework.SqlServer.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\EntityFramework.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\System.CodeDom.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\System.Data.SqlClient.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\runtimes\win-arm64\native\sni.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\runtimes\win-x64\native\sni.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\runtimes\win-x86\native\sni.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.Api\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll

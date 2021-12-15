@@ -13,3 +13,6 @@ C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.dll
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ref\ShoppingCart.AppServices.dll
 C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.pdb
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.AppServices.runtimeconfig.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\bin\Debug\net5.0\ShoppingCart.AppServices.runtimeconfig.dev.json
+C:\Projects\ShoppingCart\ShoppingCart\ShoppingCart.AppServices\obj\Debug\net5.0\ShoppingCart.AppServices.genruntimeconfig.cache
